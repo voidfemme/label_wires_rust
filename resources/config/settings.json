@@ -1,0 +1,9 @@
+{
+  "language": "en",
+  "default_wire_file_directory": "",
+  "default_csv_directory": "",
+  "default_save_location": "/home/rsp/documents",
+  "csv_save_location": "/home/rsp/documents",
+  "default_csv_delimiter": "|",
+  "file_path": "resources/config/settings.json"
+}
