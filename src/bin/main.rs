@@ -1,6 +1,7 @@
+use iced::multi_window::Application;
+use iced::Settings;
 use std::path::PathBuf;
 
-use iced::{Application, Settings};
 use label_wires::ui::views::main_view::Flags;
 use label_wires::ui::views::main_view::MainApplication;
 
